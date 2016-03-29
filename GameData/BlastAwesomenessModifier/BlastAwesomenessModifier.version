@@ -1,0 +1,25 @@
+{
+  "NAME": "Blast Awesomeness Modifier",
+  "DOWNLOAD": "https://github.com/mjn33/BlastAwesomenessModifier/releases",
+  "URL": "https://raw.githubusercontent.com/mjn33/BlastAwesomenessModifier/master/GameData/BlastAwesomenessModifier/BlastAwesomenessModifier.version",
+  "GITHUB" : {
+    "USERNAME"   : "mjn33",
+    "REPOSITORY" : "BlastAwesomenessModifier"
+  },
+  "VERSION": {
+    "BUILD": 0,
+    "PATCH": 0,
+    "MINOR": 1,
+    "MAJOR": 0
+  }
+  "KSP_VERSION_MAX": {
+    "PATCH": 5,
+    "MINOR": 0,
+    "MAJOR": 1
+  },
+  "KSP_VERSION_MIN": {
+    "PATCH": 5,
+    "MINOR": 0,
+    "MAJOR": 1
+  }
+}
